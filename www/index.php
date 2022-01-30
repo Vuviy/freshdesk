@@ -6,7 +6,7 @@ use App\Tickets;
 use App\MakeArray;
 use App\WriteCsv;
 
-$ticketsObj = new Tickets('vuviy', 'mBopV5V6SA5LO6EACwG', 'vova1995avatar');
+$ticketsObj = new Tickets('your_domain', 'api_kay', 'your_password');
 $tickets = $ticketsObj->getTickets();
 
 $arr = new MakeArray();
