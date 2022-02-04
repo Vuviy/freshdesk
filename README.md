@@ -10,4 +10,4 @@ How use:
       docker-compose build and 
       docker-compose run
 3. Open page in browser with address localhost:80;
-4. Every reloading this page will creating csv-file with name ""tickets" date()";
+4. Every reloading this page will creating csv-file with name "tickets date()";
